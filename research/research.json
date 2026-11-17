@@ -1,0 +1,412 @@
+{
+  "brand": "Ciel Boutique",
+  "handle": "ciel_boutique.lb",
+  "instagram": "https://www.instagram.com/ciel_boutique.lb/",
+  "contactMode": "whatsapp",
+  "phone": "9613666055",
+  "displayPhone": "+961 3 666 055",
+  "hours": "Confirm visiting times with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "12.7K",
+  "postCountObserved": 655,
+  "latestVisiblePost": "2026-11-17",
+  "researchDate": "2026-11-17",
+  "profileBio": "✨ Fashion Redefined\n👗 Your go-to destination for stylish looks\n📦 Shipping all over Lebanon\n📲 WhatsApp: +9613666055",
+  "bioLinks": [
+    "https://maps.app.goo.gl/EpbR5Dpz66RkjxXM6"
+  ],
+  "branches": [],
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-hero-native.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-03.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-04.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-05.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-hero-native.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-11.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "ivory-city-look",
+      "name": "Ivory City Look",
+      "category": "Coordinated looks",
+      "description": "An ivory tied shirt and short skirt are shown in the city styling photograph. A second image adds a textured pale-pink outer layer. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-01.jpg",
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DftjEV5qcQX/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "ivory-midi-look",
+      "name": "Ivory Midi Look",
+      "category": "Coordinated looks",
+      "description": "An ivory cropped jacket and a flowing long skirt form a tonal look. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfthJ0kq8y8/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "brown-textured-coat",
+      "name": "Brown Textured Coat Look",
+      "category": "Outer layers",
+      "description": "A brown outer layer with a darker textured collar is shown over two different styled looks. The images illustrate alternative styling; confirm the exact coat reference. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-04.jpg",
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfrTIKOKMuR/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "navy-coat-scarf",
+      "name": "Navy Coat & Scarf Look",
+      "category": "Outer layers",
+      "description": "A dark double-breasted coat is styled with a pale blue scarf and hat. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfrTGCXK-VJ/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "olive-cape-look",
+      "name": "Olive Cape Look",
+      "category": "Outer layers",
+      "description": "A long olive cape and scarf layer is styled with dark shorts and an ivory top. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-hero-native.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfnbKluqbuz/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "chartreuse-blazer-look",
+      "name": "Chartreuse Blazer Look",
+      "category": "Tailored looks",
+      "description": "A chartreuse jacket is shown over a dark top and slim dark trousers. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/Dfna0O0qILS/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "cropped-jacket-grey-trousers",
+      "name": "Cropped Jacket & Grey Trousers",
+      "category": "Tailored looks",
+      "description": "A taupe cropped jacket, light top and grey trousers create a layered city look. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DftktJkKzQz/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "sage-jacket-pleats",
+      "name": "Sage Jacket & Pleats",
+      "category": "Coordinated looks",
+      "description": "A pale sage cropped jacket is styled with a light pleated short skirt. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfoW1uOqMwP/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "sage-cardigan-green-pleats",
+      "name": "Sage Cardigan & Green Pleats",
+      "category": "Coordinated looks",
+      "description": "A sage buttoned cardigan is styled with a deep-green pleated skirt and dark scarf. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/Dfna7nqKZxH/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    },
+    {
+      "id": "white-textured-layer",
+      "name": "White Textured Layer",
+      "category": "Outer layers",
+      "description": "A white textured outer layer is shown over a striped blouse and taupe short skirt. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfoVzREqDDk/",
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/898110170_18025068809927214_3808039668068723210_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TBdoo2bxbq8Q7kNvwHVmELs&_nc_oc=AdqgZ282Jr2doVZa2Nfoe-cACEEy7rEkMuk3sdr34LarAjQ78jZVm5S8FAFJy8O71zg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS3QadO17rzvh_vAm1pF3J3PYpZd4PlSXHQDJTNpB0xYQ&oe=6B0276C1",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DftjEV5qcQX/",
+      "width": 640,
+      "height": 640,
+      "sha256": "f78f3a0faebab426813f202fa222399a6da9fe5b785f6ecf01cf82c7545ab287",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896141176_18025067519927214_3953388241848252354_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZHlreB1pHxIQ7kNvwEw1EgT&_nc_oc=AdqT6k_DcUr_KZm3EfBoJegs9p6hXypyUQE3W7ReezgS3vGzVOTGi1oUGn2f4BZip7g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQdSyjNSNOYEZOqEYalxsMRqY_sdPSn2NiIix-VQmcxMw&oe=6B028292",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfthwTKKbtU/",
+      "width": 640,
+      "height": 640,
+      "sha256": "62c63f17dc9d569e884caa85eefba0007b7f6604ad5b4e7baa50c144dfbe07e9",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/898887854_18025066856927214_7472442801691341498_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dd8nY-8zuQwQ7kNvwHw2eab&_nc_oc=AdrZ7A54s2iHBHsDCxFdvQQYMtHcWK77-SJ9W6g7e-cdHCTHPMG-96Vy_uzFVHUvo40&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRqlFkb46CPICpQK5a4zBtS3LOWbf_6-mk1GI6KF7gGzQ&oe=6B027A1B",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfthJ0kq8y8/",
+      "width": 640,
+      "height": 640,
+      "sha256": "0b321911895934450afa1331b1ebea8729105272c425c744f8f46513789c5a68",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/906066501_18024938660927214_3279948337066641028_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FXMkChIQy_AQ7kNvwEcb5NI&_nc_oc=AdqIJazo3Ew5eNc0pKbU5YdCar4Kp_1OnZFRlhGXeT1KrVncWb4OrZwIktk1rWrNQrw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRR1SmgEw8DX24yqnqUXQ-QDV68rCYo5v_LE-BAyuUOWw&oe=6B026E2B",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfrTIKOKMuR/",
+      "width": 480,
+      "height": 640,
+      "sha256": "7886831c1de496a3d262499984c6e2bd3eb8e908ea07f69150533882b93531dc",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904321313_18024938624927214_4343910179979753696_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MUGlZi4HwuoQ7kNvwG8Kav2&_nc_oc=AdqqA0W14REdVfViUjyK4GXScNGgkMb16BPZQEjEvvbKqo6DBfvlrwDjTs5-FQ4xi4U&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRmNi2DbxpxKY49RoI86Qwvslu8py4tVUaBjt42VWx-Wg&oe=6B026B36",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfrTGCXK-VJ/",
+      "width": 480,
+      "height": 640,
+      "sha256": "2309bff8a7c7830ab5edfb3848106580eb4de1e5554699fb42383923efa7ac54",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904368208_18024938576927214_8523309488935225534_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Dtaa-czRlQcQ7kNvwGTGzBl&_nc_oc=AdriNAellDGL-zIChVSq2EEkz7az9M-6bJSJLdtoVmh2H4qW38RbGT6hGrdIte_-xZg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRS2xk8B5SqI8BtTlSJn6gVt9qcr4PYnN-jAzKxfTXf-w&oe=6B0282D8",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfrTDuKKHw6/",
+      "width": 480,
+      "height": 640,
+      "sha256": "45abb3cc1eba7a8924a41a64308583a43d45b529f34b76ccd5ce409034add5c5",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900041660_18024720764927214_9035844485088844628_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7w2cc79v29UQ7kNvwH4sR2U&_nc_oc=AdpjFIBzTeQKlkGtkGbrmzjodxXrHk3oUk3Xt4z_K2t-lMgcBAbRSuJHojtmViibKqo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQcioyavfgAqzEWBajBbqc1QKU948pYLnFne7iWw3ei4A&oe=6B027D28",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfnbKluqbuz/",
+      "width": 480,
+      "height": 640,
+      "sha256": "dff4a000048c2bb808d2997adac780355f93de864e32e7fdfec3a5e20ee30040",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": false,
+      "exclusionReason": "Replaced by native1191px image of the same photograph; do not duplicate thumbnail.",
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/898199415_18024720488927214_3731793377652681189_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BO-mSL8-nZsQ7kNvwFjo3HZ&_nc_oc=AdpmZoAWCOOH1SqXsO7--vHfccBGwecBuCp6dGEUf-NQYghVRzOpi81WzRv7qcklYXY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSzK-2sJnAirXPmjiuYhvxv4-dfLUGMwFgn5jsrDaxFxg&oe=6B025F6B",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/Dfna0O0qILS/",
+      "width": 480,
+      "height": 640,
+      "sha256": "8a6fff6140e4672f84920b8d1f5d818bc2e8d760475df3816a791334ed6ea1a9",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/899519693_18025070675927214_4146918723607330082_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=YIg6PQpXjtMQ7kNvwFxxCDk&_nc_oc=AdpdmUpZwTAvCFD26yE9f74K1VxKiu0CmgTuGN_0jMKH5R_YWVDQVVsZ5fInZu00hDo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSII63zw47XkXtArdI2FwpG2t8V3bYYCVLs-b6asCn5JA&oe=6B027424",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DftktJkKzQz/",
+      "width": 640,
+      "height": 640,
+      "sha256": "490858d01d03a22dccb23140b407712f108fd322fb58b8ad13ed18d5e7107c91",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/895468016_18024766985927214_6595435936555494626_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hyegs_yponkQ7kNvwEdnge8&_nc_oc=AdqvUiAJHqsYtTgPD0R5a1frMBjq3KXGu3KX3JvK99kKtHxCVa0y9P3eJtQ8xaLauG0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSHKyXnv0fQtGk0cZsAHWEzFTpsQ6MtpKslKhNM-1DQmA&oe=6B026E98",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfoW1uOqMwP/",
+      "width": 480,
+      "height": 640,
+      "sha256": "f18e95d6bda8ec1afd001b3e7ce515901680e8564e673cfae2c1564579902b14",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/893301655_18024720548927214_1842863628327785872_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=R9RE-UExpigQ7kNvwHksm-J&_nc_oc=AdriWSRMZ42Z2r26tUJuFb5YRiqpVzkzaBmxVJPAqz-6JyOGoBlS0z95ctsWI3VBwzI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRYxU46NXZhqS2ZEwJ_p4iA7Yt_Lg3UvEczJnBHKT_cQw&oe=6B0269CF",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/Dfna7nqKZxH/",
+      "width": 480,
+      "height": 640,
+      "sha256": "154f24da07e2009dc84d6de9a6896c9053b843f9b67de462e98ff74be05ba6d8",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/900647126_18024766283927214_3074771882054165901_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QTmbBRdZ-xkQ7kNvwHC9RFE&_nc_oc=Adpz0BlfD7Vqdt_o62lGcDrDqS_1vJzlw0XQUs4ah4HKk7Pw0k3MzkUtJFngxSyUecw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B5I5J8eAsRbPXrFrnnzcyg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSXCWne4NjQuvZrpDLuBCwCIXxzDEWvRVnjV4hHITIhYg&oe=6B027F4B",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfoVzREqDDk/",
+      "width": 480,
+      "height": 640,
+      "sha256": "c840dd22d2468456c2f2bbf13f4abdd51e56de66cec39a565707d823e4f0a690",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-hero-native.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/900041660_18024720764927214_9035844485088844628_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAyODMwNzg2NjY2ODA4ODI0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE5MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7w2cc79v29UQ7kNvwH4sR2U&_nc_oc=AdpjFIBzTeQKlkGtkGbrmzjodxXrHk3oUk3Xt4z_K2t-lMgcBAbRSuJHojtmViibKqo&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=y12mLD1I2Blnd4glzCwAKQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRdMtEvl5GCxtDSnaai1PYTaRuQaN93AjDNIOtpthj2UQ&oe=6B027D28",
+      "sourcePost": "https://www.instagram.com/ciel_boutique.lb/p/DfnbKluqbuz/",
+      "width": 1191,
+      "height": 1588,
+      "sha256": "048108d9fe1a6152a41605b1cf52978430bada0bc16004372619a423f051a178",
+      "sourceImageType": "Native public Instagram photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "exclusionReason": null,
+      "observationMethod": "Exact rendered public Instagram DOM currentSrc URL, downloaded unchanged; no extracted video frames or upscaling.",
+      "currentPriceVerified": false
+    }
+  ],
+  "about": "Ciel Boutique shares coordinated fashion looks and outer layers, with a public profile listing WhatsApp enquiries and shipping across Lebanon. A recent own caption places the boutique in Jal El Dib, facing its old store. Ask the team for current visiting details, sizing and collection availability.",
+  "activityEvidence": [
+    {
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DftjEV5qcQX/",
+      "date": "2026-11-17",
+      "observation": "Own public photo alt explicitly dated November17,2026."
+    },
+    {
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfthwTKKbtU/",
+      "date": "2026-11-17",
+      "observation": "Second own public collection photograph today."
+    },
+    {
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfnbKluqbuz/",
+      "date": "2026-11-14",
+      "observation": "Own caption says Jal El Dib facingour oldstore,03 666055,deliveryacrossLebanon."
+    }
+  ],
+  "websiteScreening": {
+    "observedDate": "2026-11-17",
+    "result": "No matching official website found in the checked public bio/link and bounded exact handle, business-name and contact-number searches. An unlisted site cannot be ruled out.",
+    "queries": [
+      "\"ciel_boutique.lb\"",
+      "\"Ciel Boutique\" Lebanon shop online",
+      "\"9613666055\"",
+      "\"3666055\" boutique"
+    ],
+    "primaryProfileReviewed": true,
+    "allBioLinksReviewed": true,
+    "bioLinkReview": "The only outbound profile link displayed is the exact Maps link. No business shop link visible. Google exact-handle results show official Instagram and a Jal El Dib Maps listing with Add website; no matched own shop surfaced.",
+    "contactEvidence": "Explicit public profile text WhatsApp:+9613666055. Recent own Nov14 caption also repeats local03 666055.",
+    "collisionsExcluded": [
+      {
+        "url": "https://www.weld-lb.com/weld/portfolio/ciel-boutique/",
+        "reason": "Architecture portfolio of a retail interior concept; not an official customer shop."
+      }
+    ]
+  },
+  "restrictions": [
+    "12 selected unique still photographs; one thumbnail replaced with native1191x1588hero. No generated assets, video frames, URL resizing modifications or upscaling.",
+    "Public imagery has a polished editorial appearance. No claim is made that images are unedited, non-AI or exact real-stock photography; owner must confirm product appearance and rights. No AI label was established in reviewed post text.",
+    "Materials, stock, official references, prices, opening hours and fulladdress unverified. Clothingnames are descriptive.",
+    "Two same-look pairs grouped as image variants instead of creating artificial duplicateproducts."
+  ],
+  "sources": [
+    "https://www.instagram.com/ciel_boutique.lb/",
+    "https://www.instagram.com/ciel_boutique.lb/p/DfnbKluqbuz/",
+    "https://maps.app.goo.gl/EpbR5Dpz66RkjxXM6"
+  ]
+}

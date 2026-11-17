@@ -1,0 +1,200 @@
+{
+  "brand": "Ciel Boutique",
+  "contactMode": "whatsapp",
+  "phone": "9613666055",
+  "displayPhone": "+961 3 666 055",
+  "instagram": "https://www.instagram.com/ciel_boutique.lb/",
+  "hours": "Confirm visiting times with the boutique",
+  "hero": "/images/collection-07.jpg",
+  "story": "/images/collection-03.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "ivory-city-look",
+      "name": "Ivory City Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory tied shirt and short skirt are shown in the city styling photograph. A second image adds a textured pale-pink outer layer. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DftjEV5qcQX/"
+    },
+    {
+      "id": "ivory-midi-look",
+      "name": "Ivory Midi Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory cropped jacket and a flowing long skirt form a tonal look. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfthJ0kq8y8/"
+    },
+    {
+      "id": "brown-textured-coat",
+      "name": "Brown Textured Coat Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown outer layer with a darker textured collar is shown over two different styled looks. The images illustrate alternative styling; confirm the exact coat reference. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg",
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfrTIKOKMuR/"
+    },
+    {
+      "id": "navy-coat-scarf",
+      "name": "Navy Coat & Scarf Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark double-breasted coat is styled with a pale blue scarf and hat. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfrTGCXK-VJ/"
+    },
+    {
+      "id": "olive-cape-look",
+      "name": "Olive Cape Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A long olive cape and scarf layer is styled with dark shorts and an ivory top. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfnbKluqbuz/"
+    },
+    {
+      "id": "chartreuse-blazer-look",
+      "name": "Chartreuse Blazer Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A chartreuse jacket is shown over a dark top and slim dark trousers. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/Dfna0O0qILS/"
+    },
+    {
+      "id": "cropped-jacket-grey-trousers",
+      "name": "Cropped Jacket & Grey Trousers",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A taupe cropped jacket, light top and grey trousers create a layered city look. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DftktJkKzQz/"
+    },
+    {
+      "id": "sage-jacket-pleats",
+      "name": "Sage Jacket & Pleats",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pale sage cropped jacket is styled with a light pleated short skirt. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfoW1uOqMwP/"
+    },
+    {
+      "id": "sage-cardigan-green-pleats",
+      "name": "Sage Cardigan & Green Pleats",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A sage buttoned cardigan is styled with a deep-green pleated skirt and dark scarf. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/Dfna7nqKZxH/"
+    },
+    {
+      "id": "white-textured-layer",
+      "name": "White Textured Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A white textured outer layer is shown over a striped blouse and taupe short skirt. Photographed in Ciel Boutique’s public collection. Confirm current availability, price, size, fabric and the exact included pieces with the shop; styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the boutique"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/ciel_boutique.lb/p/DfoVzREqDDk/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

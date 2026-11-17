@@ -1,0 +1,158 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-01.jpg",
+    "sha256": "f78f3a0faebab426813f202fa222399a6da9fe5b785f6ecf01cf82c7545ab287",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-02.jpg",
+    "sha256": "62c63f17dc9d569e884caa85eefba0007b7f6604ad5b4e7baa50c144dfbe07e9",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-03.jpg",
+    "sha256": "0b321911895934450afa1331b1ebea8729105272c425c744f8f46513789c5a68",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-04.jpg",
+    "sha256": "7886831c1de496a3d262499984c6e2bd3eb8e908ea07f69150533882b93531dc",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-06.jpg",
+    "sha256": "45abb3cc1eba7a8924a41a64308583a43d45b529f34b76ccd5ce409034add5c5",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-05.jpg",
+    "sha256": "2309bff8a7c7830ab5edfb3848106580eb4de1e5554699fb42383923efa7ac54",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-hero-native.jpg",
+    "sha256": "048108d9fe1a6152a41605b1cf52978430bada0bc16004372619a423f051a178",
+    "originalDimensions": [
+      1191,
+      1588
+    ],
+    "webDimensions": [
+      1191,
+      1588
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-08.jpg",
+    "sha256": "8a6fff6140e4672f84920b8d1f5d818bc2e8d760475df3816a791334ed6ea1a9",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-09.jpg",
+    "sha256": "490858d01d03a22dccb23140b407712f108fd322fb58b8ad13ed18d5e7107c91",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-10.jpg",
+    "sha256": "f18e95d6bda8ec1afd001b3e7ce515901680e8564e673cfae2c1564579902b14",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-11.jpg",
+    "sha256": "154f24da07e2009dc84d6de9a6896c9053b843f9b67de462e98ff74be05ba6d8",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\ciel-boutique\\assets\\ciel-12.jpg",
+    "sha256": "c840dd22d2468456c2f2bbf13f4abdd51e56de66cec39a565707d823e4f0a690",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  }
+]
